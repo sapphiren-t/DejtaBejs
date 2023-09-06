@@ -1,3 +1,3 @@
-# USER ┃ UID ┃ Active Subs 
-Vanish ┃ 1 ┃ todo
-Exove ┃ 1 ┃ todo
+# USER ┃ UID ┃ Active Subs ┃ BLACKLISTED
+Vanish ┃ 1 ┃ todo ┃ No
+Exove ┃ 1 ┃ todo ┃ No
